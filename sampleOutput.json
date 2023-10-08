@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "The Guardian",
+      "title": "Howzat? Tortoise, 82, has cricket ball-sized bladder stone removed - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91ay1uZXdzLzIwMjMvc2VwLzI5L2pvZXktdGhlLXRvcnRvaXNlLTgyLWhhcy1jcmlja2V0LWJhbGwtc2l6ZWQtYmxhZGRlci1zdG9uZS1yZW1vdmVkLWNvcm53YWxs0gF6aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3VrLW5ld3MvMjAyMy9zZXAvMjkvam9leS10aGUtdG9ydG9pc2UtODItaGFzLWNyaWNrZXQtYmFsbC1zaXplZC1ibGFkZGVyLXN0b25lLXJlbW92ZWQtY29ybndhbGw?oc=5",
+      "urlToImage": "https://i.guim.co.uk/img/media/9755e91a0e209a26c886946220e3e3ef29ce1307/0_116_2048_1229/master/2048.jpg?width=620&dpr=1&s=none",
+      "publishedAt": "2023-09-29T11:03:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
